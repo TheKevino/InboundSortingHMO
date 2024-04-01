@@ -1,0 +1,21 @@
+﻿<Window x:Class="Pallets.FilterByPo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pallets"
+        mc:Ignorable="d"
+        Title="FilterByPo" Height="400" Width="300">
+    <Grid>
+        <ScrollViewer x:Name="svListaPos" FontSize="16" VerticalAlignment="Stretch" Padding="20">
+            
+            <StackPanel Orientation="Vertical">
+                <StackPanel x:Name="spContenedor" Orientation="Vertical">
+
+                </StackPanel>
+                <Button Content="Ok" Height="30" Width="140" Click="Ok_Click"/>
+            </StackPanel>
+
+        </ScrollViewer>
+    </Grid>
+</Window>

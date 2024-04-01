@@ -1,0 +1,236 @@
+﻿<Window x:Class="Prueba.Shipments"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:uc1="clr-namespace:Prueba.UserControls" xmlns:local="clr-namespace:Pallets.Models"
+        mc:Ignorable="d"
+        Title="Shipment" Height="650" Width="1000" ResizeMode="CanResize" AllowsTransparency="True"
+        WindowStyle="None" WindowStartupLocation="CenterScreen" Background="Transparent"
+        MinWidth="400" MinHeight="300">
+
+    <WindowChrome.WindowChrome>
+        <WindowChrome 
+        CaptionHeight="0"
+        ResizeBorderThickness="5" />
+    </WindowChrome.WindowChrome>
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="boolToVis" />
+        <local:FlagImageConverter x:Key="FlagImageConverter"/>
+
+        <Style x:Key="BotonPersonalizado" TargetType="Button">
+            <Setter Property="Width" Value="190" />
+            <Setter Property="Height" Value="55" />
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="BorderBrush" Value="Transparent" />
+        </Style>
+
+        <Style TargetType="DataGrid">
+            <Setter Property="Background" Value="#151f2d"/>
+            <Setter Property="Foreground" Value="Black"/>
+        </Style>
+
+        <Storyboard x:Key="LoadingAnimation" AutoReverse="True" RepeatBehavior="Forever">
+            <DoubleAnimation Storyboard.TargetName="lblLoading" Storyboard.TargetProperty="(Label.RenderTransform).(ScaleTransform.ScaleX)" From="1" To="1.1" Duration="0:0:0.5" />
+            <DoubleAnimation Storyboard.TargetName="lblLoading" Storyboard.TargetProperty="(Label.RenderTransform).(ScaleTransform.ScaleY)" From="1" To="1.1" Duration="0:0:0.5" />
+        </Storyboard>
+
+    </Window.Resources>
+
+    <Border x:Name="MainMenu" CornerRadius="15" Background="#151f2d" MouseDown="Border_MouseDown">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions >
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.ColumnSpan="2" Grid.Row="2">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="140"/>
+                    <RowDefinition Height="150"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left">
+
+                    <StackPanel Orientation="Horizontal">
+                        <Image x:Name="flagVendor" Width="48" Height="48" Margin="30 0 0 0" Source="/Flags/MX.png"/>
+                        <StackPanel Orientation="Vertical" Margin="10 0 0 0">
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Vendor Name:" FontSize="18" Foreground="White" VerticalAlignment="Center" FontWeight="Bold" />
+                                <Label x:Name="lblVendorName" Content="Vendor Name" FontSize="18" Foreground="White" VerticalAlignment="Center" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Bill of lading:" FontSize="18" Foreground="White" VerticalAlignment="Center" FontWeight="Bold" />
+                                <Label x:Name="lblBol" Content="Bol" FontSize="18" Foreground="White" VerticalAlignment="Center" />
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <Label Content="Tracking number:" FontSize="18" Foreground="White" VerticalAlignment="Center" FontWeight="Bold" />
+                                <Label x:Name="lblTrackingNum" Content="track" FontSize="18" Foreground="White" VerticalAlignment="Center" />
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+
+                </Grid>
+
+
+                <Grid Margin="10 0 0 0" Grid.Row="1">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Column="1" HorizontalAlignment="Center">
+                        <StackPanel Orientation="Vertical">
+
+                            <Button 
+                                x:Name="btnFilterByPo"
+                                Content="Filter By PO" 
+                                Background="#1e2e44"
+                                Foreground="White"
+                                Visibility="Collapsed"
+                                Margin=" 0 0 0 10"
+                                Cursor="Hand" Click="FilterByPO_Click">
+
+                                <Button.Resources>
+                                    <Style TargetType="{x:Type Border}">
+                                        <Setter Property="CornerRadius" Value="5"/>
+                                    </Style>
+                                </Button.Resources>
+                                <Button.Style>
+                                    <StaticResource ResourceKey="BotonPersonalizado"/>
+                                </Button.Style>
+
+                            </Button>
+
+                            <StackPanel Orientation="Horizontal">
+
+                                <Button 
+                                    x:Name="btnSortingTwo"
+                                    Content="Sort Pallets" 
+                                    Background="#1e2e44"
+                                    Foreground="White"
+                                    Visibility="Collapsed"
+                                    Cursor="Hand" Click="PalletSortTwo_Click">
+
+                                    <Button.Resources>
+                                        <Style TargetType="{x:Type Border}">
+                                            <Setter Property="CornerRadius" Value="5"/>
+                                        </Style>
+                                    </Button.Resources>
+                                    <Button.Style>
+                                        <StaticResource ResourceKey="BotonPersonalizado"/>
+                                    </Button.Style>
+                                </Button>
+
+                                <Button 
+                                    x:Name="btnSortingNoTracking"
+                                    Content="Free Sort" 
+                                    Background="#1e2e44"
+                                    Foreground="White"
+                                    Visibility="Collapsed"
+                                    Margin=" 30 0 0 0"
+                                    Cursor="Hand" Click="PalletSortTwo_Click">
+
+                                    <Button.Resources>
+                                        <Style TargetType="{x:Type Border}">
+                                            <Setter Property="CornerRadius" Value="5"/>
+                                        </Style>
+                                    </Button.Resources>
+                                    <Button.Style>
+                                        <StaticResource ResourceKey="BotonPersonalizado"/>
+                                    </Button.Style>
+                                </Button>
+
+                            </StackPanel>
+
+                        </StackPanel>
+
+                    </Grid>
+
+                </Grid>
+
+                <Grid Grid.Column="2" Grid.Row="3">
+
+                    <DataGrid x:Name="dgInTransit" ScrollViewer.CanContentScroll="False"
+                              AutoGenerateColumns="False" 
+                              HorizontalContentAlignment="Center"
+                              HeadersVisibility="Column"
+                              VerticalContentAlignment="Center" 
+                              GridLinesVisibility="None"
+                              BorderBrush="Transparent"
+                              Background="Transparent"
+                              Margin="10 10 10 10"
+                              EnableRowVirtualization="True" 
+                              EnableColumnVirtualization="True"
+                              AlternationCount="2"
+                              IsReadOnly="True"
+                              FontSize="20"
+                              Foreground="White" Visibility="Hidden">
+
+                        <DataGrid.ColumnHeaderStyle>
+                            <Style TargetType="DataGridColumnHeader">
+                                <Setter Property="Background" Value="Transparent" />
+                                <Setter Property="Foreground" Value="#F0F0F0" />
+                                <Setter Property="FontSize" Value="20" />
+                                <Setter Property="BorderThickness" Value="0" />
+                                <Setter Property="FontWeight" Value="DemiBold" />
+                                <Setter Property="Padding" Value="18" />
+                                <Setter Property="HorizontalContentAlignment" Value="Center" />
+                            </Style>
+                        </DataGrid.ColumnHeaderStyle>
+
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Width="*" x:Name="colPo" Header="PO Num." Binding="{Binding Tres_s}" />
+                            <DataGridTextColumn Width="*" Header="Material" Binding="{Binding Material}" />
+                            <DataGridTextColumn Width="*" x:Name="colSloc" Header="QTY" Binding="{Binding Sloc}" />
+                        </DataGrid.Columns>
+
+                        <DataGrid.CellStyle>
+                            <Style TargetType="DataGridCell">
+                                <Setter Property="BorderBrush" Value="Transparent" />
+                                <Setter Property="BorderThickness" Value="0" />
+                                <Setter Property="Margin" Value="13" />
+                                <Setter Property="HorizontalAlignment" Value="Center" />
+                                <!-- Establece el valor de CornerRadius para redondear los bordes -->
+                            </Style>
+                        </DataGrid.CellStyle>
+
+                        <DataGrid.RowStyle>
+                            <Style TargetType="DataGridRow">
+                                <Setter Property="Background" Value="#1e2e44" />
+                                <!-- Establece un fondo transparente por defecto -->
+                                <Style.Triggers>
+                                    <Trigger Property="ItemsControl.AlternationIndex" Value="1">
+                                        <Setter Property="Background" Value="#151f2d" />
+                                        <!-- Establece el fondo para las filas impares -->
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </DataGrid.RowStyle>
+
+                    </DataGrid>
+
+                    <Label x:Name="lblLoading" Content="Loading ..." HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" FontWeight="Bold" Foreground="White">
+                        <Label.RenderTransform>
+                            <ScaleTransform ScaleX="1" ScaleY="1" />
+                        </Label.RenderTransform>
+                    </Label>
+
+                </Grid>
+
+
+            </Grid>
+
+        </Grid>
+    </Border>
+
+</Window>

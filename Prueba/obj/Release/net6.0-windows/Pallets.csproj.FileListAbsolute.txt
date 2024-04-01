@@ -1,0 +1,326 @@
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\AE.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ALL.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\AR.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\AT.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\AU.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BE.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BG.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BR.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BW.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CH.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CL.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CN.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CO.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CR.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CZ.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\DE.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\DK.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\DO.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\EE.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\EG.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\EMEA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ES.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ET.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\FI.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\FJ.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\FR.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\GB.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\GR.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\GT.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\HK.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\HN.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\HR.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\HU.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ID.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\IE.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\IL.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\IN.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\IT.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\JP.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\KR.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LB.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LK.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LT.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LU.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LV.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MD.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MK.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MT.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MX.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MY.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NC.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NI.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NL.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NO.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NZ.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PE.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PH.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PL.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PT.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PY.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\QA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\RO.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\RS.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SE.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SG.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SI.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SK.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SV.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\TH.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\TN.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\TR.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\TW.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\UA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\UM.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\Uni.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\US.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\UZ.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\VN.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ZA.png
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.exe
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.dll.config
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.deps.json
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.runtimeconfig.json
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.pdb
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\EPPlus.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.csproj.AssemblyReference.cache
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\App.baml
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Arrivals.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\FilterByPo.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\PalletsSorted.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Shipments.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\UserControls\MenuButton.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\App.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets_MarkupCompile.cache
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets_MarkupCompile.lref
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Arrivals.baml
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\FilterByPo.baml
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\PalletsSorted.baml
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Shipments.baml
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\UserControls\MenuButton.baml
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.g.resources
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.AssemblyInfoInputs.cache
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.AssemblyInfo.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.csproj.CoreCompileInputs.cache
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.csproj.CopyComplete
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\refint\Pallets.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.pdb
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.genruntimeconfig.cache
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\ref\Pallets.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Scripts\Recibir.vbs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\System.IO.Ports.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\ViewPallets.g.cs
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\ViewPallets.baml
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Topshelf.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\TopShelf.ServiceInstaller.dll
+C:\Users\TE558748\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\AE.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ALL.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\AR.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\AT.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\AU.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BE.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BG.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BR.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\BW.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CH.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CL.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CN.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CO.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CR.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\CZ.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\DE.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\DK.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\DO.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\EE.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\EG.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\EMEA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ES.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ET.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\FI.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\FJ.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\FR.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\GB.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\GR.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\GT.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\HK.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\HN.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\HR.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\HU.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ID.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\IE.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\IL.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\IN.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\IT.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\JP.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\KR.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LB.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LK.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LT.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LU.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\LV.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MD.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MK.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MT.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MX.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\MY.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NC.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NI.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NL.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NO.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\NZ.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PE.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PH.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PL.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PT.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\PY.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\QA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\RO.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\RS.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SE.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SG.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SI.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SK.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\SV.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\TH.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\TN.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\TR.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\TW.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\UA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\UM.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\Uni.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\US.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\UZ.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\VN.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Flags\ZA.png
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.exe
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Scripts\Recibir.vbs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.dll.config
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.deps.json
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.runtimeconfig.json
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Pallets.pdb
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\EPPlus.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\System.IO.Ports.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Topshelf.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\TopShelf.ServiceInstaller.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.csproj.AssemblyReference.cache
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\App.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Arrivals.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\FilterByPo.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\PalletsSorted.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Shipments.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\UserControls\MenuButton.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\ViewPallets.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\App.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets_MarkupCompile.cache
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets_MarkupCompile.lref
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Arrivals.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\FilterByPo.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\PalletsSorted.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Shipments.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\UserControls\MenuButton.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\ViewPallets.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.g.resources
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.AssemblyInfoInputs.cache
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.AssemblyInfo.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.csproj.CoreCompileInputs.cache
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\refint\Pallets.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.pdb
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.genruntimeconfig.cache
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\ref\Pallets.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Scripts\AutoReceive.vbs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Communication.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\Keyence.AutoID.SDK.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\VncClientControlCommon.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\VncClientControlCommonLib.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\FreeSort.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\FreeSort.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\HmoDc.g.cs
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\HmoDc.baml
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\bin\Release\net6.0-windows\NeUsbController.dll
+C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\obj\Release\net6.0-windows\Pallets.csproj.Up2Date

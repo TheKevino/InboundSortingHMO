@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\te575804\OneDrive - TE Connectivity\Documents\Proyectos Visual Studio\Pallets\Prueba\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="FilterByPo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FreeSort.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PalletsSorted.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\MenuButton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Arrivals.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FilterByPo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="FreeSort.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HmoDc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PalletsSorted.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewPallets.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

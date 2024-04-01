@@ -1,0 +1,212 @@
+﻿<Window x:Class="Pallets.FreeSort"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pallets"
+        mc:Ignorable="d"
+        Title="FreeSort" Height="700" Width="1000" ResizeMode="CanResize" AllowsTransparency="True"
+        WindowStyle="None" WindowStartupLocation="CenterScreen" Background="Transparent"
+        MinWidth="400" MinHeight="300">
+    <WindowChrome.WindowChrome>
+        <WindowChrome 
+        CaptionHeight="0"
+        ResizeBorderThickness="5" />
+    </WindowChrome.WindowChrome>
+
+    <Border x:Name="PalletWindow" CornerRadius="15" Background="#f0f0f0">
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" Grid.ColumnSpan="7" x:Name="TopBorder" CornerRadius="15 15 0 0" Background="#E0E0E0" Width="auto" Height="40" MouseDown="Border_MouseDown">
+                <Grid>
+                    <!-- Elipses -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 5 50 5" Cursor="Hand">
+                        <Ellipse x:Name="btnMinimize" Width="14" Height="14" Fill="#eb1700" MouseDown="MinimizeButton_Click" />
+                        <Ellipse x:Name="btnMax" Width="14" Height="14" Fill="#ffaf01" Margin="13 0" Cursor="Hand" MouseDown="MaximizeButton_Click" />
+                        <Ellipse x:Name="btnClose" Width="14" Height="14" Fill="#009d00" Cursor="Hand" MouseDown="CloseButton_Click" />
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <Grid Grid.Row="0" Grid.ColumnSpan="7" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Label Content="Free Sorting" FontSize="14"/>
+            </Grid>
+
+            <Grid Grid.Row="0" HorizontalAlignment="Right" VerticalAlignment="Center">
+                <StackPanel Orientation="Horizontal">
+                    <Label Margin = "0 0 2 0"  Content="Carton count: " />
+                    <Label Margin = "0 0 250 0" x:Name="lblConteo" Content="---" />
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.Row="0" Grid.ColumnSpan="7" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="20 0 0 0">
+                <StackPanel Orientation="Horizontal">
+
+                    <Button Padding ="20 5 20 5" x:Name="btnScan" Content="Scan" Cursor="Hand" Margin="5 0 0 0" Background="#f0f0f0" Click="bt_trigger_Click" Width="70" >
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="4"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+
+                    <Button Padding ="2 5 2 5" x:Name="btnStop" Content="Stop" Cursor="Hand" Margin="5 0 0 0" Background="#f0f0f0" Width="70" Click="bt_stop_Click" Visibility="Collapsed" >
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="4"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+
+                </StackPanel>
+            </Grid>
+
+            <ScrollViewer Grid.Row="1">
+                <Grid x:Name="PalletSorting">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition x:Name="colTable" Width="400"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions >
+
+                    <Grid Grid.Row="0" Grid.ColumnSpan="9">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="142*"/>
+                            <ColumnDefinition Width="841*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBox x:Name="txtPartNumber" Grid.ColumnSpan="2" TextChanged="TextBox_TextChanged" />
+                    </Grid>
+
+                    <Grid x:Name="gridTable" Grid.Row="1" Grid.Column="4" Background="#1b1b1b" Height="Auto">
+                        <DataGrid x:Name="dgScannedMaterial"
+                                  FontSize="28"
+                                  Background="Transparent"
+                                  AutoGenerateColumns="False" 
+                                  HorizontalContentAlignment="Center"
+                                  HeadersVisibility="Column"
+                                  VerticalContentAlignment="Center" 
+                                  GridLinesVisibility="None"
+                                  BorderBrush="Transparent"
+                                  Margin="5"
+                                  AlternationCount="2"
+                                  IsReadOnly="True"
+                                  Foreground="White">
+
+                            <DataGrid.ColumnHeaderStyle>
+                                <Style TargetType="DataGridColumnHeader">
+                                    <Setter Property="Background" Value="Transparent" />
+                                    <Setter Property="Foreground" Value="#F0F0F0" />
+                                    <Setter Property="FontSize" Value="30" />
+                                    <Setter Property="BorderThickness" Value="0" />
+                                    <Setter Property="FontWeight" Value="DemiBold" />
+                                    <Setter Property="Padding" Value="15" />
+                                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                                </Style>
+                            </DataGrid.ColumnHeaderStyle>
+
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Width="*" Header="Material" Binding="{Binding Material}" />
+                                <DataGridTextColumn Width="*" Header="Location" Binding="{Binding Location}" />
+                            </DataGrid.Columns>
+
+                            <DataGrid.CellStyle>
+                                <Style TargetType="DataGridCell">
+                                    <Setter Property="BorderBrush" Value="Transparent" />
+                                    <Setter Property="BorderThickness" Value="0" />
+                                    <Setter Property="Margin" Value="13" />
+                                    <Setter Property="HorizontalAlignment" Value="Center" />
+                                    <!-- Establece el valor de CornerRadius para redondear los bordes -->
+                                </Style>
+                            </DataGrid.CellStyle>
+
+                            <DataGrid.RowStyle>
+                                <Style TargetType="DataGridRow">
+                                    <Setter Property="Background" Value="#424242" />
+                                    <!-- Establece un fondo transparente por defecto -->
+                                    <Style.Triggers>
+                                        <Trigger Property="ItemsControl.AlternationIndex" Value="1">
+                                            <Setter Property="Background" Value="#1b1b1b" />
+                                            <!-- Establece el fondo para las filas impares -->
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </DataGrid.RowStyle>
+
+                        </DataGrid>
+                    </Grid>
+
+                    <!-- *************************************************** PRIMERA MITAD *************************************************** -->
+                    <Grid Grid.Row="1" Grid.Column="0" Margin="0 50 0 0">
+                        <StackPanel x:Name="ColUno" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.Column="1" Margin="0 50 0 0">
+                        <StackPanel x:Name="ColDos" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" >
+
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.Column="2" Margin="0 50 0 0">
+                        <StackPanel x:Name="ColTres" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.Column="3" Margin="0 50 0 0">
+                        <StackPanel x:Name="ColCuatro" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+                        </StackPanel>
+                    </Grid>
+                    <!-- ***************************************************               *************************************************** -->
+
+                    <!-- *************************************************** SEGUNDA MITAD *************************************************** -->
+                    <Grid Grid.Row="1" Grid.Column="5" Margin="0 50 0 0">
+                        <StackPanel x:Name="ColCinco" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.Column="6" Margin="0 50 0 0">
+                        <StackPanel x:Name="ColSeis" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top" >
+
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.Column="7" Margin="0 50 0 0">
+                        <StackPanel x:Name="ColSiete" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+                        </StackPanel>
+                    </Grid>
+
+                    <Grid Grid.Row="1" Grid.Column="8" Margin="0 50 0 0">
+                        <StackPanel x:Name="ColOcho" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+                        </StackPanel>
+                    </Grid>
+                    <!-- ***************************************************               *************************************************** -->
+
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+
+    </Border>
+</Window>
